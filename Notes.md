@@ -8,3 +8,8 @@
 - [race time predictor - Pete Reigel's equation](https://www.runnersworld.com/uk/training/a761681/rws-race-time-predictor/)
 - [science and guesswork of race-equivalency](https://www.runnersworld.com/advanced/a20836392/the-science-and-guesswork-of-race-equivalent-predictors/)
 - [calculator - Target Power method](https://blog.stryd.com/2020/01/10/how-to-calculate-your-race-time-from-your-target-power/)
+
+
+### Interesting
+- [How does hitting the wall affect your marathon? - article](https://www.outsideonline.com/health/running/racing/race-strategy/how-much-will-hitting-the-wall-hurt-your-marathon-time/)
+- [How does hitting the wall affect your marathon? - journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251513)
